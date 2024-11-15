@@ -13,7 +13,8 @@ def Second_Largest_Number_in_Array(arr):
 arr = [9,3,1,5,8,3,7,4]
 print(Second_Largest_Number_in_Array(arr)) 
 
-
+# TC :- O(n)
+# SC :- O(1)
 
 
 
