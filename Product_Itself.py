@@ -9,8 +9,11 @@ def Product_itself(arr):
            product[i] *= arr[j]
     return product
 
-arr = [1,2,3,4,5]
-print(Product_itself(arr))
+arr = [1,2,3,4,5]               # TC :- O(n^2)
+print(Product_itself(arr))      # SC :- O(1)
+
+
+
 
 
 
