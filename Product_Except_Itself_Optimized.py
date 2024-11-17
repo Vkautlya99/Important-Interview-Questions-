@@ -24,8 +24,8 @@ def Product_Except_Itself(arr,n):
    return res
 
 n = 5
-arr = [10, 3, 5, 6, 2]
-print(Product_Except_Itself(arr, n)) 
+arr = [10, 3, 5, 6, 2]                       # TC :- O(n)
+print(Product_Except_Itself(arr, n))         # SC :- O(1)
 
 
 
